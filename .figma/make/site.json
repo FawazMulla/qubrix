@@ -1,0 +1,10 @@
+{
+  "description": "This interactive platform simplifies quantum computing for learners through structured modules, AI tutoring, circuit building, and real-time simulations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

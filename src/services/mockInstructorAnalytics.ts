@@ -1,0 +1,2 @@
+export { daysSince,getAssessmentAnalytics,getAttentionReasons,getInstructorLearners,getInstructorOverview,getLearnerDetail,getLearnerModuleProgress,getLearnerSummary,getModuleAnalytics,getQuestionAnalytics,getRecentActivity } from "../data/instructorAnalytics";
+export type { InstructorActivity, InstructorAssessmentAttempt, InstructorLearner } from "../data/instructorAnalytics";
